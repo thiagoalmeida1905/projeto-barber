@@ -8,7 +8,7 @@ Esse projeto, não teve o foco em JavaScript(só foi introduzido uma biblioteca 
 
 Vale destacar o Layout responsivo de todo o site, bem como toda a estrutura foi construída com HTML semântico, para otimizar a indexação nos mecanimos de busca, proporcionando maior visibilidade online.
 
-Link do site: https://projeto-barber-nine.vercel.app/
+Link do site: https://project-devbarber.vercel.app
 
 ## 🕹 Tecs utilizadas
 
